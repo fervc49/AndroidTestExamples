@@ -27,7 +27,7 @@ import java.util.List;
  */
 public interface NotesContract {
 
-    //Interfaces to conect View with presenter New2 BranchTest from code
+    //Interfaces to conect View with presenter New2 BranchTest from code, still testing
     interface View {
 
         void setProgressIndicator(boolean active);
