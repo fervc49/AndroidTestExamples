@@ -27,6 +27,7 @@ import java.util.List;
  */
 public interface NotesContract {
 
+    //Interfaces to conect View with presenter New
     interface View {
 
         void setProgressIndicator(boolean active);
